@@ -2,4 +2,4 @@ logs
 .mypy_cache
 Formula_one-2022_analyst
 
-dags\__pycache__
+dags/__pycache__
